@@ -29,19 +29,19 @@ var rsOptions = {
 		itemsMobile: [320, 1]
 	},
     calendar: {
-		startYear: '2016',
+		startYear: '2020',
 		startMonth: '0', // moths are starting form 0-11
-		endYear: '2017',
+		endYear: '2022',
 		endMonth: '0',
 		weekStart: 'Sunday', // possible values Sunday/Monday
 		weekNames: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
 		monthNames: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
 		busyDays: [ // new Date(year, month, day)
-			new Date(2020, 7, 14),
-			new Date(2016, 7, 17),
-			new Date(2016, 7, 23),
-			new Date(2016, 7, 31),
-			new Date(20202, 9, 7)
+			new Date(2020, 6, 14),
+			new Date(2020, 6, 17),
+			new Date(2020, 6, 23),
+			new Date(2020, 6, 31),
+			new Date(2020, 8, 7)
 		]
     }
 };
